@@ -1,0 +1,1 @@
+Abstract classes can also have final methods (methods that cannot be overridden). 

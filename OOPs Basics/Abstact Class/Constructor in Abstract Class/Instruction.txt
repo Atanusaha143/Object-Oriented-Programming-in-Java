@@ -1,0 +1,2 @@
+An abstract class can contain constructors in Java. 
+And a constructor of abstract class is called when an instance of a inherited class is created.

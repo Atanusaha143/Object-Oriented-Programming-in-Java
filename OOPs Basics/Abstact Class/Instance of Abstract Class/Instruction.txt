@@ -1,0 +1,1 @@
+In Java, an instance of an abstract class cannot be created, we can have references of abstract class type though.
